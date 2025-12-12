@@ -1,4 +1,10 @@
 node_modules/
+<<<<<<< HEAD
 FineEase/
 fineease-backend/
 FineEase-Data Layer/
+=======
+.env
+*.log
+.DS_Store
+>>>>>>> ee67f41576ee038c5d4bfc2c8a6cf4b0cde94f63
