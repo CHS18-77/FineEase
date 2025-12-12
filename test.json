@@ -1,0 +1,12 @@
+{
+  "program_ratio": 0.75,
+  "admin_ratio": 0.22,
+  "surplus_ratio": 0.12,
+  "inventory_value": 5403,
+  "inventory_expense_ratio": 0.0365,
+  "inventory_asset_ratio": 0.0394,
+  "assets": 137000,
+  "liabilities": 41000,
+  "total_income": 170000,
+  "total_expenditure": 148000
+}

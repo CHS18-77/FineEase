@@ -1,0 +1,272 @@
+[
+  {
+    "reg_no":"REG10001",
+    "name":"Smile Foundation",
+    "year":2023,
+    "health_score":60.17,
+    "program_ratio":0.6212121212,
+    "admin_ratio":0.3787878788,
+    "surplus_ratio":0.1121076233
+  },
+  {
+    "reg_no":"REG10002",
+    "name":"Akshaya Patra Foundation",
+    "year":2023,
+    "health_score":71.33,
+    "program_ratio":0.777027027,
+    "admin_ratio":0.222972973,
+    "surplus_ratio":0.1294117647
+  },
+  {
+    "reg_no":"REG10003",
+    "name":"Goonj",
+    "year":2023,
+    "health_score":61.25,
+    "program_ratio":0.6305418719,
+    "admin_ratio":0.3694581281,
+    "surplus_ratio":0.1405588484
+  },
+  {
+    "reg_no":"REG10004",
+    "name":"CRY (Child Rights and You)",
+    "year":2023,
+    "health_score":76.06,
+    "program_ratio":0.8451612903,
+    "admin_ratio":0.1548387097,
+    "surplus_ratio":0.1267605634
+  },
+  {
+    "reg_no":"REG10005",
+    "name":"Magic Bus",
+    "year":2023,
+    "health_score":69.99,
+    "program_ratio":0.754601227,
+    "admin_ratio":0.245398773,
+    "surplus_ratio":0.1443569554
+  },
+  {
+    "reg_no":"REG10006",
+    "name":"HelpAge India",
+    "year":2023,
+    "health_score":58.46,
+    "program_ratio":0.6270783848,
+    "admin_ratio":0.3729216152,
+    "surplus_ratio":-0.0293398533
+  },
+  {
+    "reg_no":"REG10007",
+    "name":"Pratham Education Foundation",
+    "year":2023,
+    "health_score":59.21,
+    "program_ratio":0.6204379562,
+    "admin_ratio":0.3795620438,
+    "surplus_ratio":0.0519031142
+  },
+  {
+    "reg_no":"REG10008",
+    "name":"Teach For India",
+    "year":2023,
+    "health_score":53.17,
+    "program_ratio":0.536069253,
+    "admin_ratio":0.463930747,
+    "surplus_ratio":0.0429579626
+  },
+  {
+    "reg_no":"REG10009",
+    "name":"SEWA Bharat",
+    "year":2023,
+    "health_score":69.95,
+    "program_ratio":0.7638190955,
+    "admin_ratio":0.2361809045,
+    "surplus_ratio":0.0985277463
+  },
+  {
+    "reg_no":"REG10010",
+    "name":"Oxfam India",
+    "year":2023,
+    "health_score":70.5,
+    "program_ratio":0.7651663405,
+    "admin_ratio":0.2348336595,
+    "surplus_ratio":0.129471891
+  },
+  {
+    "reg_no":"REG10011",
+    "name":"CARE India",
+    "year":2023,
+    "health_score":76.04,
+    "program_ratio":0.8567639257,
+    "admin_ratio":0.1432360743,
+    "surplus_ratio":0.0714285714
+  },
+  {
+    "reg_no":"REG10012",
+    "name":"Save the Children India",
+    "year":2023,
+    "health_score":73.25,
+    "program_ratio":0.8412399723,
+    "admin_ratio":0.1587600277,
+    "surplus_ratio":-0.0427553444
+  },
+  {
+    "reg_no":"REG10013",
+    "name":"Plan India",
+    "year":2023,
+    "health_score":73.99,
+    "program_ratio":0.8230337079,
+    "admin_ratio":0.1769662921,
+    "surplus_ratio":0.0918367347
+  },
+  {
+    "reg_no":"REG10014",
+    "name":"SOS Children's Villages India",
+    "year":2023,
+    "health_score":53.2,
+    "program_ratio":0.5149082569,
+    "admin_ratio":0.4850917431,
+    "surplus_ratio":0.1439790576
+  },
+  {
+    "reg_no":"REG10015",
+    "name":"Bhumi",
+    "year":2023,
+    "health_score":52.72,
+    "program_ratio":0.5099009901,
+    "admin_ratio":0.4900990099,
+    "surplus_ratio":0.1349036403
+  },
+  {
+    "reg_no":"REG10016",
+    "name":"GiveIndia Foundation",
+    "year":2023,
+    "health_score":55.45,
+    "program_ratio":0.5464231355,
+    "admin_ratio":0.4535768645,
+    "surplus_ratio":0.1467532468
+  },
+  {
+    "reg_no":"REG10017",
+    "name":"Akshaya Trust",
+    "year":2023,
+    "health_score":53.73,
+    "program_ratio":0.5281690141,
+    "admin_ratio":0.4718309859,
+    "surplus_ratio":0.1174903818
+  },
+  {
+    "reg_no":"REG10018",
+    "name":"SNEHA",
+    "year":2023,
+    "health_score":74.96,
+    "program_ratio":0.8381395349,
+    "admin_ratio":0.1618604651,
+    "surplus_ratio":0.0858843537
+  },
+  {
+    "reg_no":"REG10019",
+    "name":"Sakhi NGO",
+    "year":2023,
+    "health_score":61.68,
+    "program_ratio":0.6715557884,
+    "admin_ratio":0.3284442116,
+    "surplus_ratio":-0.0217298223
+  },
+  {
+    "reg_no":"REG10020",
+    "name":"Youth for Seva",
+    "year":2023,
+    "health_score":70.07,
+    "program_ratio":0.7687707641,
+    "admin_ratio":0.2312292359,
+    "surplus_ratio":0.0839926963
+  },
+  {
+    "reg_no":"REG10021",
+    "name":"Navjeevan Trust",
+    "year":2023,
+    "health_score":52.42,
+    "program_ratio":0.5327669903,
+    "admin_ratio":0.4672330097,
+    "surplus_ratio":0.008423586
+  },
+  {
+    "reg_no":"REG10022",
+    "name":"Prayas",
+    "year":2023,
+    "health_score":55.0,
+    "program_ratio":0.5444444444,
+    "admin_ratio":0.4555555556,
+    "surplus_ratio":0.1262135922
+  },
+  {
+    "reg_no":"REG10023",
+    "name":"Pollinate Energy",
+    "year":2023,
+    "health_score":62.89,
+    "program_ratio":0.6818536433,
+    "admin_ratio":0.3181463567,
+    "surplus_ratio":0.0108041364
+  },
+  {
+    "reg_no":"REG10024",
+    "name":"Jan Sahas",
+    "year":2023,
+    "health_score":74.26,
+    "program_ratio":0.8274509804,
+    "admin_ratio":0.1725490196,
+    "surplus_ratio":0.0892857143
+  },
+  {
+    "reg_no":"REG10025",
+    "name":"Gram Vikas",
+    "year":2023,
+    "health_score":73.13,
+    "program_ratio":0.8343434343,
+    "admin_ratio":0.1656565657,
+    "surplus_ratio":-0.0185185185
+  },
+  {
+    "reg_no":"REG10026",
+    "name":"Bachpan Bachao Andolan",
+    "year":2023,
+    "health_score":60.32,
+    "program_ratio":0.6417910448,
+    "admin_ratio":0.3582089552,
+    "surplus_ratio":0.0261627907
+  },
+  {
+    "reg_no":"REG10027",
+    "name":"Aga Khan Rural Support Programme India",
+    "year":2023,
+    "health_score":61.51,
+    "program_ratio":0.6576819407,
+    "admin_ratio":0.3423180593,
+    "surplus_ratio":0.0313315927
+  },
+  {
+    "reg_no":"REG10028",
+    "name":"Katha",
+    "year":2023,
+    "health_score":55.63,
+    "program_ratio":0.5518672199,
+    "admin_ratio":0.4481327801,
+    "surplus_ratio":0.1330935252
+  },
+  {
+    "reg_no":"REG10029",
+    "name":"Samarthanam Trust",
+    "year":2023,
+    "health_score":65.25,
+    "program_ratio":0.7013215859,
+    "admin_ratio":0.2986784141,
+    "surplus_ratio":0.0772357724
+  },
+  {
+    "reg_no":"REG10030",
+    "name":"Sankalp",
+    "year":2023,
+    "health_score":59.22,
+    "program_ratio":0.6012269939,
+    "admin_ratio":0.3987730061,
+    "surplus_ratio":0.1421052632
+  }
+]
