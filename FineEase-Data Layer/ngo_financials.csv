@@ -1,0 +1,31 @@
+reg_no,name,reg_type,address,state,district,contact_name,contact_email,area_of_work
+REG10001,Smile Foundation,Society,"1 / Main Road, Mumbai, Maharashtra",Maharashtra,Mumbai,Contact 1,contact1@smilefoundation.org,Education
+REG10002,Akshaya Patra Foundation,Trust,"2 / Main Road, Bengaluru, Karnataka",Karnataka,Bengaluru,Contact 2,contact2@akshayapatrafoundation.org,Health
+REG10003,Goonj,Section 8 Company,"3 / Main Road, New Delhi, Delhi",Delhi,New Delhi,Contact 3,contact3@goonj.org,Livelihood
+REG10004,CRY (Child Rights and You),Society,"4 / Main Road, Chennai, Tamil Nadu",Tamil Nadu,Chennai,Contact 4,contact4@crychildrightsandyou.org,Child Welfare
+REG10005,Magic Bus,Trust,"5 / Main Road, Lucknow, Uttar Pradesh",Uttar Pradesh,Lucknow,Contact 5,contact5@magicbus.org,Women Empowerment
+REG10006,HelpAge India,Society,"6 / Main Road, Kolkata, West Bengal",West Bengal,Kolkata,Contact 6,contact6@helpageindia.org,Disaster Relief
+REG10007,Pratham Education Foundation,Trust,"7 / Main Road, Ahmedabad, Gujarat",Gujarat,Ahmedabad,Contact 7,contact7@prathameducationfoundation.org,Education
+REG10008,Teach For India,Section 8 Company,"8 / Main Road, Jaipur, Rajasthan",Rajasthan,Jaipur,Contact 8,contact8@teachforindia.org,Health
+REG10009,SEWA Bharat,Society,"9 / Main Road, Hyderabad, Telangana",Telangana,Hyderabad,Contact 9,contact9@sewabharat.org,Livelihood
+REG10010,Oxfam India,Trust,"10 / Main Road, Bhubaneswar, Odisha",Odisha,Bhubaneswar,Contact 10,contact10@oxfamindia.org,Child Welfare
+REG10011,CARE India,Section 8 Company,"11 / Main Road, Mumbai, Maharashtra",Maharashtra,Mumbai,Contact 11,contact11@careindia.org,Sanitation
+REG10012,Save the Children India,Trust,"12 / Main Road, Bengaluru, Karnataka",Karnataka,Bengaluru,Contact 12,contact12@savethechildrenindia.org,Education
+REG10013,Plan India,Society,"13 / Main Road, New Delhi, Delhi",Delhi,New Delhi,Contact 13,contact13@planindia.org,Rural Development
+REG10014,SOS Children's Villages India,Trust,"14 / Main Road, Chennai, Tamil Nadu",Tamil Nadu,Chennai,Contact 14,contact14@soschildrensvillagesindia.org,Environment
+REG10015,Bhumi,Section 8 Company,"15 / Main Road, Lucknow, Uttar Pradesh",Uttar Pradesh,Lucknow,Contact 15,contact15@bhumi.org,Livelihood
+REG10016,GiveIndia Foundation,Society,"16 / Main Road, Kolkata, West Bengal",West Bengal,Kolkata,Contact 16,contact16@giveindiafoundation.org,Women Empowerment
+REG10017,Akshaya Trust,Trust,"17 / Main Road, Ahmedabad, Gujarat",Gujarat,Ahmedabad,Contact 17,contact17@akshayatrust.org,Health
+REG10018,SNEHA,Society,"18 / Main Road, Jaipur, Rajasthan",Rajasthan,Jaipur,Contact 18,contact18@sneha.org,Education
+REG10019,Sakhi NGO,Trust,"19 / Main Road, Hyderabad, Telangana",Telangana,Hyderabad,Contact 19,contact19@sakhiongo.org,Child Welfare
+REG10020,Youth for Seva,Section 8 Company,"20 / Main Road, Bhubaneswar, Odisha",Odisha,Bhubaneswar,Contact 20,contact20@youthforseva.org,Women Empowerment
+REG10021,Navjeevan Trust,Society,"21 / Main Road, Mumbai, Maharashtra",Maharashtra,Mumbai,Contact 21,contact21@navjeevantrust.org,Sanitation
+REG10022,Prayas,Trust,"22 / Main Road, Bengaluru, Karnataka",Karnataka,Bengaluru,Contact 22,contact22@prayas.org,Education
+REG10023,Pollinate Energy,Section 8 Company,"23 / Main Road, New Delhi, Delhi",Delhi,New Delhi,Contact 23,contact23@pollinateenergy.org,Environment
+REG10024,Jan Sahas,Society,"24 / Main Road, Chennai, Tamil Nadu",Tamil Nadu,Chennai,Contact 24,contact24@jansahas.org,Livelihood
+REG10025,Gram Vikas,Trust,"25 / Main Road, Lucknow, Uttar Pradesh",Uttar Pradesh,Lucknow,Contact 25,contact25@gramvikas.org,Rural Development
+REG10026,Bachpan Bachao Andolan,Society,"26 / Main Road, Kolkata, West Bengal",West Bengal,Kolkata,Contact 26,contact26@bachpanbachaoandolan.org,Child Welfare
+REG10027,Aga Khan Rural Support Programme India,Trust,"27 / Main Road, Ahmedabad, Gujarat",Gujarat,Ahmedabad,Contact 27,contact27@agrspi.org,Sanitation
+REG10028,Katha,Section 8 Company,"28 / Main Road, Jaipur, Rajasthan",Rajasthan,Jaipur,Contact 28,contact28@katha.org,Education
+REG10029,Samarthanam Trust,Trust,"29 / Main Road, Hyderabad, Telangana",Telangana,Hyderabad,Contact 29,contact29@samarthanamtrust.org,Disaster Relief
+REG10030,Sankalp,Society,"30 / Main Road, Bhubaneswar, Odisha",Odisha,Bhubaneswar,Contact 30,contact30@sankalp.org,Environment
